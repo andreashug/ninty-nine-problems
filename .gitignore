@@ -1,3 +1,5 @@
 .DS_Store
 
 erlang/ebin
+erlang/.rebar
+erlang/.eunit

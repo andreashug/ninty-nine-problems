@@ -1,0 +1,14 @@
+{application, nintynineproblems,
+ [
+  {description, "Collection of problems for functional programming"},
+  {vsn, "1"},
+  {modules, [
+             listfunctions
+            ]},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {env, []}
+ ]}.
